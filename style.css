@@ -1,0 +1,10 @@
+*{
+    margin : 0px;
+    padding: 0px
+}
+
+.container-fluid i{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 230px;
+}
